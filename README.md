@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?text=Helloworld&animation=fadeIn)
 
 <div align=center>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://parkchanjong.github.io/blog_/)](https://parkchanjong.github.io/blog_/)
-	
+
+ [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://parkchanjong.github.io/blog_/)](https://parkchanjong.github.io/blog_/)
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanjong-park-5546b2163/)](https://www.linkedin.com/in/chanjong-park-5546b2163/)
 
 		
