@@ -3,6 +3,9 @@
 
 hi
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkchanjong)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![footer](https://capsule-render.vercel.app/api?section=footer)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkchanjong&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
