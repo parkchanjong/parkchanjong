@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?text=jungleMan&fontSize=20&rotate=-30)
 <div align=center>
-	
+
+<a href=https://velog.io/@parkchanjong><img src="https://img.shields.io/badge/#FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://velog.io/@parkchanjong"/></a>&nbsp
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@parkchanjong)](https://velog.io/@parkchanjong)
 
  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://parkchanjong.github.io/blog_/)](https://parkchanjong.github.io/blog_/)
