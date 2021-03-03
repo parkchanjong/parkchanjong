@@ -8,8 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7000cj@gmail.com)](mailto:snugyun01@gmail.com)
 	
 </div>
-
-<v2>status</v2>
+// 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkchanjong&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats).       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkchanjong&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
