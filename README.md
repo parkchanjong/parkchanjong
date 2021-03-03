@@ -2,7 +2,7 @@
 
 Hello!
 Welcome to my profile
-<hr style="border: solid 0.1px grey;">
+<hr style="border: solid 0.01px grey;">
 
 I like programming.
  
