@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?&color=auto)
+![header](https://capsule-render.vercel.app/api?&color=#2ecc71)
 <h3>Hello!
 Welcome to my profile</h3>
 
