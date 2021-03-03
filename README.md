@@ -27,7 +27,7 @@ I like programming.
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanjong-park-5546b2163/)](https://www.linkedin.com/in/chanjong-park-5546b2163/)
 
-[![Linkedin Badge](https://img.shields.io/badge/뱃지에쓸글씨-#3776AB?style=flat-square&logo=python&logoColor=white&link=너의링크)
+https://img.shields.io/badge/뱃지에쓸글씨-#3776AB?style=flat-square&logo=python&logoColor=white&link=너의링크
 
 <h5>Databases</h5>
 
