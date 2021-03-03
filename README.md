@@ -24,11 +24,11 @@ I like programming.
 <h3>Info</h3>
 <hr style="border: solid 0.01px grey;">
 
-<h4>Programming Languages</h4>
+<h5>Programming Languages</h5>
 
-<h4>Databases</h4>
+<h5>Databases</h5>
 
-<h4>Tools</h4>
+<h5>Tools</h5>
 
 <!-- //방문자수 -->
 <div align=center>
