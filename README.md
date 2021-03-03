@@ -20,7 +20,9 @@ I like programming.
 
 <hr style="border: solid 0.01px grey;">
 
-<!-- //링크 -->
+<!-- //정보 -->
+<h3>Info</h3>
+<hr style="border: solid 0.01px grey;">
 <span>
 
 
