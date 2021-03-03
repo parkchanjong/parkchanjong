@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?text=jungleMan&fontSize=20&rotate=-30)
 <div align=center>
 
-
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@parkchanjong)](https://velog.io/@parkchanjong)
-
- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://parkchanjong.github.io/)](https://parkchanjong.github.io/)
  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanjong-park-5546b2163/)](https://www.linkedin.com/in/chanjong-park-5546b2163/)
 
@@ -13,7 +9,7 @@
 	
 </div>
 
-
+<v2>status</v2>
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkchanjong&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats).       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkchanjong&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
