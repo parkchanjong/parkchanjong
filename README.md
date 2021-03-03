@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=jungleMan&fontSize=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api)
 
 Hello! Welcome to my profile
 <hr />
