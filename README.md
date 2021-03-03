@@ -18,7 +18,7 @@ I like programming.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkchanjong&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=7000cj)](https://solved.ac/7000cj)
 
-<hr style="border: solid 0.01px grey;">
+<br>
 
 <!-- //정보 -->
 <h3>Info</h3>
