@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api)
 
-Hello!
-Welcome to my profile
-<hr style="border: solid 0.01px grey;">
+<h3>Hello!
+Welcome to my profile</h3>
 
 I like programming.
  
+<br>
 
 <!-- //현황 -->
 <h3>Stats</h3>
