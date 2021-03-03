@@ -8,14 +8,14 @@ I like programming.
  
 
 <!-- //현황 -->
-Stats
-<hr />
+<h3>Stats</h3>
+<hr style="border: solid 0.01px grey;">
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkchanjong&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkchanjong&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<hr />
+<hr style="border: solid 0.01px grey;">
 
 <!-- //링크 -->
 <span>
