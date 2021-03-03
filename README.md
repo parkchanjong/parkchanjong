@@ -34,8 +34,6 @@ I like programming.
 <!-- //방문자수 -->
 <div align=center>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkchanjong%2Fhit-counter&count_bg=%233DA4C8&title_bg=%23E1E335&icon=waze.svg&icon_color=%23EF0000&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkchanjong%2Fhit-counter&count_bg=%2385E33D&title_bg=%23000000&icon=waze.svg&icon_color=%23FFF736&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
