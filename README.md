@@ -23,10 +23,12 @@ I like programming.
 <!-- //정보 -->
 <h3>Info</h3>
 <hr style="border: solid 0.01px grey;">
-<span>
 
+<h4>Programming Languages</h4>
 
-</span>
+<h4>Databases</h4>
+
+<h4>Tools</h4>
 
 <!-- //방문자수 -->
 <div align=center>
