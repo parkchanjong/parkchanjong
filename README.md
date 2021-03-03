@@ -18,6 +18,7 @@ Stats
 
 <!-- //링크 -->
 <span>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanjong-park-5546b2163/)](https://www.linkedin.com/in/chanjong-park-5546b2163/)
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7000cj@gmail.com)](mailto:snugyun01@gmail.com)
