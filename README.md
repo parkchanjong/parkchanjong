@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?&color=auto)
 <h3>Hello!!
-Welcome to my profile</h3>
+Welcome to my profile.</h3>
 
 I like programming.
 <div>
