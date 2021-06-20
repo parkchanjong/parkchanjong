@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?&color=auto)
 <h3>Hello!!
-Welcome.</h3>
+Welcome</h3>
 
-I like programming.
+I like programming!
 <div>
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanjong-park-5546b2163/)](https://www.linkedin.com/in/chanjong-park-5546b2163/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7000cj@gmail.com)](mailto:snugyun01@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100026495448747&sk=about)](https://www.facebook.com/profile.php?id=100026495448747&sk=about)
