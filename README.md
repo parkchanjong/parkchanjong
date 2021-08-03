@@ -45,6 +45,8 @@ I like programming!
 
 <h5>Testing</h5>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br>
 <!-- //방문자수 -->
