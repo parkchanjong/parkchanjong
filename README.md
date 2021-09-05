@@ -16,8 +16,6 @@ Entrepreneurship / Sense of Challenge / Owner Spirit
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100026495448747&sk=about)](https://www.facebook.com/profile.php?id=100026495448747&sk=about)
 </details>
 
-<br>
-
 <!-- //현황 -->
 <details>
   <summary><b>Stats</b></summary>
@@ -26,10 +24,7 @@ Entrepreneurship / Sense of Challenge / Owner Spirit
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkchanjong&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkchanjong&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/parkchanjong/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=7000cj)](https://solved.ac/7000cj)
-
 </details>
-
-<br />
 
 <!-- //정보 -->
 <details>
@@ -43,7 +38,6 @@ Entrepreneurship / Sense of Challenge / Owner Spirit
 [![html](https://img.shields.io/badge/html-★★★-lightgrey?labelColor=E34F26&logo=HTML5&style=for-the-badge&logoColor=white)](https://www.w3schools.com/html)
 [![css](https://img.shields.io/badge/css-★☆☆-lightgrey?labelColor=1572B6&logo=CSS3&style=for-the-badge&logoColor=white)](https://www.w3schools.com/css)
 [![javascript](https://img.shields.io/badge/javascript-★★☆-lightgrey?labelColor=F7DF1E&logo=JavaScript&style=for-the-badge&logoColor=black)](https://www.w3schools.com/js)
-
 </details>
 
 <!-- //정보 -->
@@ -60,7 +54,6 @@ Entrepreneurship / Sense of Challenge / Owner Spirit
 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
 ![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
-
 </details>    
 
 <br />
