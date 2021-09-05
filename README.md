@@ -2,6 +2,8 @@
 <h3>Hello!!! Welcome</h3>
 
 I like programming!
+<br>
+Entrepreneurship / Sense of Challenge / Owner Spirit
 
 <div>
   
