@@ -19,8 +19,16 @@ Entrepreneurship / Sense of Challenge / Owner Spirit
 <br>
 
 <!-- //현황 -->
-<h3>Stats</h3>
+<details>
+  <summary><b>Stats</b></summary>
 <hr style="border: solid 0.01px grey;" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkchanjong&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkchanjong&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/parkchanjong/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=7000cj)](https://solved.ac/7000cj)
+
+</details>
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parkchanjong&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=parkchanjong&count_private=true&show_icons=true&theme=radical&layout=compact)](https://github.com/parkchanjong/github-readme-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
