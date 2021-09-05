@@ -12,16 +12,10 @@ Entrepreneurship / Sense of Challenge / Owner Spirit
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/parkchanjong)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanjong-park-5546b2163/)](https://www.linkedin.com/in/chanjong-park-5546b2163/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/uRWG9XQNpjLkFO5)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7000cj@gmail.com)](mailto:snugyun01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7000cj@gmail.com)](mailto:7000cj@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100026495448747&sk=about)](https://www.facebook.com/profile.php?id=100026495448747&sk=about)
 </details>
 
-
-
-<div>
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chanjong-park-5546b2163/)](https://www.linkedin.com/in/chanjong-park-5546b2163/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:7000cj@gmail.com)](mailto:snugyun01@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100026495448747&sk=about)](https://www.facebook.com/profile.php?id=100026495448747&sk=about)
-</div>
 <br>
 
 <!-- //현황 -->
