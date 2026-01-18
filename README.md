@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?&color=auto)
 <h3>Hello</h3>
 
 I like programming!
@@ -102,5 +101,3 @@ Mac                      12 hrs 5 mins       ███████████�
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkchanjong%2Fhit-counter&count_bg=%2385E33D&title_bg=%23000000&icon=waze.svg&icon_color=%23FFF736&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
-
-![footer](https://capsule-render.vercel.app/api?section=footer&color=auto)
