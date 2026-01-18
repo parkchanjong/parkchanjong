@@ -95,9 +95,3 @@ Mac                      12 hrs 5 mins       ███████████�
  Last Updated on 24/02/2022
 <!--END_SECTION:waka-->
 
-<br />
-<!-- //방문자수 -->
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fparkchanjong%2Fhit-counter&count_bg=%2385E33D&title_bg=%23000000&icon=waze.svg&icon_color=%23FFF736&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
